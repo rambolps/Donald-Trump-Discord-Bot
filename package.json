@@ -1,0 +1,16 @@
+{
+    "name": "greeter-bot",
+    "version": "9001",
+    "description": "The 45th President of the United States of America",
+    "main": "bot.js",
+    "author": "Rayn",
+    "dependencies": {
+        "bufferutil": "^4.0.1",
+        "discord.io": "^2.5.3",
+        "discord.js": "^11.5.1",
+        "ffmpeg-binaries": "^4.0.0",
+        "opusscript": "0.0.7",
+        "winston": "^3.2.1",
+        "ytdl-core": "^0.29.5"
+    }
+}
